@@ -1,0 +1,16 @@
+body
+{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: auto;
+    background-color:grey;
+}
+td{
+    background-color: hotpink;
+    color: khaki;
+    border-collapse: collapse;
+    text-align: center;
+}
+tr{
+    background-color: yellowgreen;
+}

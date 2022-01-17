@@ -1,0 +1,59 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+#header{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #f6f7f9;
+    width: 100%;
+    padding-top: 1.8%;
+}
+#nav{
+    display: flex;
+    float: right;
+    justify-content: flex-start;
+    padding-left: 11%;  
+}
+#menu{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 11%;  
+}
+.active{
+    color: #ff5300;
+    text-decoration: none;
+    border-bottom: 2px;
+    border-color: #ff5300;
+}
+.button_subsribe{
+	background-color:#ff5500;
+	border-radius:2px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+    font-weight: 300;
+	padding:10px 20px;
+	text-decoration:none;
+}
+.button_menu{
+	background-color: #f6f7f9;
+	display:inline-block;
+	color:#000000;
+	font-family:Arial;
+	font-size:12px;
+    font-weight: 300;
+	padding:10px 20px;
+	text-decoration:none;
+
+}
+#instagram{
+    padding: 1.8% 11% 2% 11%;
+}
+#insta_img{
+    margin-top: 0;
+    margin: 0;
+    padding: 0;
+}
